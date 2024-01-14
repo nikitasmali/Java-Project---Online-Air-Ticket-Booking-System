@@ -1,0 +1,18 @@
+06 Nov 2022 - 00:42:08.254 [RMI TCP Connection(113)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+06 Nov 2022 - 00:42:08.593 [RMI TCP Connection(113)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+06 Nov 2022 - 00:42:08.611 [RMI TCP Connection(113)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+06 Nov 2022 - 00:42:08.694 [RMI TCP Connection(113)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+06 Nov 2022 - 00:42:08.755 [RMI TCP Connection(113)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+06 Nov 2022 - 00:42:08.831 [RMI TCP Connection(113)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+06 Nov 2022 - 00:51:24.531 [main] INFO  c.a.controller.FlightControllerTest - Starting FlightControllerTest using Java 17.0.4 on Shawin with PID 10248 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\airticketbookingsystem)
+06 Nov 2022 - 00:51:24.536 [main] INFO  c.a.controller.FlightControllerTest - No active profile set, falling back to 1 default profile: "default"
+06 Nov 2022 - 00:51:28.978 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+06 Nov 2022 - 00:51:28.979 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+06 Nov 2022 - 00:51:28.984 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 4 ms
+06 Nov 2022 - 00:51:29.065 [main] INFO  c.a.controller.FlightControllerTest - Started FlightControllerTest in 5.551 seconds (JVM running for 7.711)
+06 Nov 2022 - 00:57:03.616 [main] INFO  c.a.controller.AirlineControllerTest - Starting AirlineControllerTest using Java 17.0.4 on Shawin with PID 4304 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\airticketbookingsystem)
+06 Nov 2022 - 00:57:03.625 [main] INFO  c.a.controller.AirlineControllerTest - No active profile set, falling back to 1 default profile: "default"
+06 Nov 2022 - 00:57:07.722 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+06 Nov 2022 - 00:57:07.723 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+06 Nov 2022 - 00:57:07.729 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 5 ms
+06 Nov 2022 - 00:57:07.806 [main] INFO  c.a.controller.AirlineControllerTest - Started AirlineControllerTest in 5.267 seconds (JVM running for 7.375)
